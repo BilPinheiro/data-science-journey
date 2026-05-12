@@ -4,7 +4,7 @@ Repositório onde documento minha transição de Desenvolvedor PHP para Cientist
 
 ## 🎯 Sobre
 
-Comecei em maio/2026 a trilha estruturada pra virar Data Scientist após [2] anos como dev PHP
+Comecei em maio/2026 a trilha estruturada pra virar Data Scientist após 2 anos como dev PHP
 no projeto [e-cidade](http://www.iplsoft.com.br/), trabalhando com sistemas de gestão pública municipal.
 
 Trabalho com dois mundos de dados em paralelo:
